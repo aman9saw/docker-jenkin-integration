@@ -14,6 +14,7 @@ public class DockerJenkinIntegrationApplication {
 	@PostConstruct
 	public void init() {
 		log.info("Application started ........................");
+		log.info("Application started second log........................");
 	}
 	
 	public static void main(String[] args) {
