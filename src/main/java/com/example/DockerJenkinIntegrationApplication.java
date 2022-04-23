@@ -15,7 +15,7 @@ public class DockerJenkinIntegrationApplication {
 	public void init() {
 		log.info("Application started ........................");
 		log.info("Application started second log........................");
-		log.info("Application started third log........................");
+		
 	}
 	
 	public static void main(String[] args) {
